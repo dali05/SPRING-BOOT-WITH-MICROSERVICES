@@ -1,0 +1,3 @@
+C:\Users\sarang_korde>powershell Compress-Archive -Path D:\SKWorkspace\springrest -DestinationPath D:\SKWorkspace\springrest.zip
+
+C:\Users\sarang_korde>powershell Compress-Archive -Path 'D:\SKWorkspace\SPRING BOOT WITH MICROSERVICES' -DestinationPath 'D:\SKWorkspace\SPRING_BOOT_WITH_MICROSERVICES.zip'

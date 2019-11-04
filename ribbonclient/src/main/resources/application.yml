@@ -1,0 +1,14 @@
+ecommerce:
+   ribbon:
+      eureka:
+         enabled: false
+      listOfServers: localhost:8080,localhost:8085
+      ServerListRefreshInterval: 2000
+   
+   
+feign:
+   hystrix:
+      enable: true
+
+server:
+   port: 9090
