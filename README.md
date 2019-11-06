@@ -1,10 +1,10 @@
 # SPRING-BOOT-WITH-MICROSERVICES
 SPRING-BOOT WITH MICROSERVICES
 
-The purpose of creating this project is to make hands on practice. In this project I have covered some of basic concepts as follows,
-1- Swagger2 implementation
-2- Zuul routing implementation
-3- h2-database (in-memory database) implementation
+The purpose of creating this project is to make hands on practice. In this project I have covered some of basic concepts as follows,\n
+1- Swagger2 implementation\n
+2- Zuul routing implementation\n
+3- h2-database (in-memory database) implementation\n
 4- eureka server
 5- eureka client / discovery client
 6- Exception Handling using spring boot
